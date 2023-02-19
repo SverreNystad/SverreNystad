@@ -1,9 +1,10 @@
-# Hi there, im Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/>
+# Hi there, I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/>
 
 <div align="center">
 <img src="programmerProgging.gif">
 </div>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a student at NTNU Trondheim and M.C.S
 - 📖 I am currently reading **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert Cecil Martin
 - 💬 Talk to me about meticulous process of producing clean code, software architecture, design patterns, and software development methodologies, such as Agile. I believe that such topics are of great importance, and I am confident that our discourse will be both informative and enjoyable.
