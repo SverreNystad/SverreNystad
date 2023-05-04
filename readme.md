@@ -1,7 +1,7 @@
 # Hello World, I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/>
 
 <div align="center">
-<img src="programmerProgging.gif">
+<img src="programmerProggingDarkMode.gif">
 </div>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
