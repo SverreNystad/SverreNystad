@@ -5,9 +5,9 @@
 </div>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a student at NTNU Trondheim and M.C.S
+- 🏦 I'm a student at NTNU Trondheim and M.C.S. I specialize in Artificial Intelligence
 - 📖 I am currently reading **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert Cecil Martin
-- 💬 Talk to me about meticulous process of producing clean code, software architecture, design patterns, and software development methodologies, such as Agile. I believe that such topics are of great importance, and I am confident that our discourse will be both informative and enjoyable.
+- 💬 Talk to me about the meticulous process of producing clean code, software architecture, design patterns, and software development methodologies, such as Agile. I believe that such topics are of great importance, and I am confident that our discourse will be both informative and enjoyable.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
