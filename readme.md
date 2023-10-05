@@ -6,8 +6,8 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a student at NTNU Trondheim and M.C.S. I specialize in Artificial Intelligence
-- 📖 I am currently reading **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert Cecil Martin
-- 💬 Talk to me about the meticulous process of producing clean code, software architecture, design patterns, and software development methodologies, such as Agile. I believe that such topics are of great importance, and I am confident that our discourse will be both informative and enjoyable.
+- 📖 I am currently reading **A Philosophy of Software Design** by John Ousterhout
+- 💬 Talk to me about the continous process of producing clean code, software architecture, design patterns, and software development methodologies, such as Agile.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
