@@ -1,13 +1,9 @@
-# Hello World, I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/>
-
+<h1> Hello World ("Vær hilset"), I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1> 
 <div align="center">
 <img src="programmerProggingDarkMode.gif">
 </div>
 
-
-<div style="display: flex;">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <h2>About Me:</h2>
-</div>
+## About Me:
 
 - **🏦 Education & Leadership:**
     - I'm a student at **NTNU Trondheim** and **M.C.S**, specializing in **Artificial Intelligence**.
@@ -36,6 +32,7 @@
 - [Simon Sandvik Lee](https://github.com/sandviklee) on [Mineraria 2 Java Edition](https://github.com/sandviklee/MinerariaV2) and more.
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) TBA.
+- [Gunnar Nystad](https://github.com/Gunnar2908) on Machine learning algorithms and Enterprise software.
 - And many more!
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Lets code a better future together :)
