@@ -131,6 +131,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <p>
     An implementation of Conway's game of life made with the MVC architecture pattern and Java Swing
   </p>
+  <br><img src="https://i.gyazo.com/675756a7a693da8d650afe52b305a5e1.gif" width="200">
 
 <hr>
 <!-- Project 9: minesweeper -->
