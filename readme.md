@@ -32,10 +32,10 @@
 - [Simon Sandvik Lee](https://github.com/sandviklee) on [Mineraria 2 Java Edition](https://github.com/sandviklee/MinerariaV2) and more.
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) TBA.
-- [Gunnar Nystad](https://github.com/Gunnar2908) on Machine learning algorithms and Enterprise software.
+- [Gunnar Nystad](https://github.com/Gunnar2908) on Machine Learning and Data Science and Enterprise Automatisation related software.
 - And many more!
 
-Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Lets code a better future together :)
+Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
