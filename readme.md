@@ -48,7 +48,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   </a>
   <a href="https://github.com/SverreNystad#gh-light-mode-only">
     <div>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SverreNystad&show_icons=true"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SverreNystad&show_icons=true,include_all_commits=true"/>&nbsp;
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact"/>&nbsp;
     </div>
   </a>
