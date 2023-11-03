@@ -24,7 +24,6 @@
       <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="mongodb"    width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="75" height="65"/>
-      
 
 </div>
 
@@ -89,7 +88,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <hr>
 
   <!-- Project 4: Marketing-AI -->
-  <h3><a href="https://github.com/SverreNystad/Marketing-AI">Marketing-AI</a></h3>
+  <h3><a href="https://github.com/SverreNystad/>MarketingAI</a></h3>
   <p>
     A software that autonomously generates relevant imagery and accompanying text for a meme or propaganda poster based on user input.
     <br><img src="https://github.com/CogitoNTNU/MarketingAI/blob/main/data/assembled_images/HelloPropagandaAI.png" width="200">
