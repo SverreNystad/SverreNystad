@@ -1,4 +1,4 @@
-<h1> Hello World ("Vær hilset"), I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1> 
+<h1> Hello ("Vær hilset") World, I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1> 
 <div align="center">
 <img src="programmerProggingDarkMode.gif">
 </div>
@@ -88,10 +88,10 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <hr>
 
   <!-- Project 4: Marketing-AI -->
-  <h3><a href="https://github.com/SverreNystad/>MarketingAI</a></h3>
+  <h3><a href="https://github.com/SverreNystad/">MarketingAI</a></h3>
   <p>
     A software that autonomously generates relevant imagery and accompanying text for a meme or propaganda poster based on user input.
-    <br><img src="https://github.com/CogitoNTNU/MarketingAI/blob/main/data/assembled_images/HelloPropagandaAI.png" width="200">
+    <br><img src="https://github.com/CogitoNTNU/MarketingAI/blob/main/data/assembled_images/HelloPropagandaAI.png" width="200"> 
   </p>
 
   <hr>
