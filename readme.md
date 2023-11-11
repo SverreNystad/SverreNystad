@@ -85,10 +85,10 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <hr>
 
   <!-- Project 4: Marketing-AI -->
-  <h3><a href="https://github.com/SverreNystad/">MarketingAI</a></h3>
+  <h3><a href="https://github.com/CogitoNTNU/MarketingAI">MarketingAI</a></h3>
   <p>
     A software that autonomously generates relevant imagery and accompanying text for a meme or propaganda poster based on user input.
-    <br><img src="https://github.com/CogitoNTNU/MarketingAI/blob/main/data/assembled_images/HelloPropagandaAI.png" width="200"> 
+    <br><img src="https://camo.githubusercontent.com/e665074212182242d970ec921ddb92386e248e22c0d650d5d79beee752d93fd0/68747470733a2f2f61746c6173696d6167657367616c6c6572792e626c6f622e636f72652e77696e646f77732e6e65742f696d616765732f4d61726b6574696e6741494c6f676f2e706e67" width="200"> 
   </p>
 
   <hr>
