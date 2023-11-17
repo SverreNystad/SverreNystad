@@ -121,6 +121,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <p>
     Using Machine Learning for time series forecasting of photovoltaic measurement for solar systems based on weather features
   </p>
+  <br><img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/8c19863d-b1f9-4142-9357-150951ccc35f" width="200">
 <hr>
 <!-- Project 9: Conway's game of life -->
   <h3><a href="https://github.com/SverreNystad/game-of-Life">Conway's game of life</a></h3>
@@ -143,7 +144,9 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     Implantation of the A* pathfinding algorithm to find the shortest path between two points and it has visualizations to show the algorithm in action.
   </p>
 <br><img src="https://github.com/SverreNystad/a-star-pathfinding/blob/main/docs/exploration_of_task_2.gif" width="200">
-  
+
+<hr>
+<!-- Project 11: TTSMS SQL-->
   <h3><a href="https://github.com/SverreNystad/TDT4145-train-system">Train, ticket, station management system</a></h3>
   <p> Train, ticket, station management system is a command line-based application that allows users to interact with a train ticketing system. Users can check train routes, trips, and available tickets, as well as register, log in, and buy tickets if they are a customer. This application uses a local SQLite database to store data.
   </p>
