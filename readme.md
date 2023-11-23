@@ -33,6 +33,7 @@
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) TBA.
 - [Gunnar Nystad](https://github.com/Gunnar2908) on Machine Learning and Data Science and Enterprise Automatisation related software.
+- [Jon Bergland](https://github.com/JonBergland) on a project about Artificial Intelligence.
 - And many more!
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
