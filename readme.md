@@ -33,7 +33,7 @@
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) TBA.
 - [Gunnar Nystad](https://github.com/Gunnar2908) on Machine Learning and Data Science and Enterprise Automatisation related software.
-- [Jon Bergland](https://github.com/JonBergland) on a project about Artificial Intelligence.
+- [Jon Bergland](https://github.com/JonBergland) on the [BoardMaster](https://github.com/SverreNystad/board-master) an AI for optimal play.
 - [Daniel Neukirch Hansen](https://github.com/Spiderpig02) on a interactive fullstack application known as [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
 - And many more!
 
