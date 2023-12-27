@@ -69,7 +69,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <hr>
   
   <!-- Project 2: NTNU FIGHTERZ -->
-  <h3><a href="https://github.com/sandviklee/NTNUFighterzV1">NTNU FIGHTERZ</a></h3>
+  <h3><a href="https://github.com/sandviklee/NTNU-FIGHTERZ">NTNU FIGHTERZ</a></h3>
   <p>
     A scaling fighting game similar to Super Smash Bros, developed in Java with Maven.
     <br><img src="https://media.discordapp.net/attachments/353907776633700363/1066753378958442506/6ae495074a7c35656342107b2aa2c2af.gif?width=837&height=454" width="200">
