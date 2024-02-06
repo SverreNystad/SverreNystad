@@ -5,9 +5,11 @@
 
 ## About Me:
 
-- **🏦 Education & Leadership:**
+- **🚀 Positions:**
+    - I currently serve as the **Chief Technical Officer** at **Cogito NTNU**.
+    - Leading a team at **Cogito NTNU**, we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
+- **🏦 Education:**
     - I'm a student at **NTNU Trondheim** and **M.C.S**, specializing in **Artificial Intelligence**.
-    - Leading a team at **Cogito NTNU**, we harness the power of OpenAI's language and image models to create innovative applications.
 - **📖 Currently Reading:** *A Philosophy of Software Design* by John Ousterhout.
 - **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns, and Agile methodologies. Let's exchange insights!
 
