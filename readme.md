@@ -37,7 +37,9 @@
 - [Gunnar Nystad](https://github.com/Gunnar2908) on [Machine Learning](https://github.com/SverreNystad/power-predictor) and Data Science and Enterprise Automatisation related software.
 - [Jon Bergland](https://github.com/JonBergland) on the [BoardMaster](https://github.com/SverreNystad/board-master) an AI for optimal play.
 - [Daniel Neukirch Hansen](https://github.com/Spiderpig02) on a interactive fullstack application known as [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
+- [Jens Martin Norheim Berget](https://github.com/Jensern1) also on the [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
 - [Magnus Hafstad](https://github.com/MagnusHafstad) on a application TBA, comming out Q2 2024
+- [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://github.com/SverreNystad/TutorAI), [Besieged](https://github.com/SverreNystad/besieged) and [PAYG-GPT4](https://github.com/SverreNystad/payg-gpt4).
 - And many more!
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
@@ -62,6 +64,14 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   
   <div align="center">
 
+
+<!-- Project 12: TutorAI -->
+  <h3><a href="https://github.com/SverreNystad/TDT4145-train-system">TutorAI</a></h3>
+  <p> 
+  TutorAI is a RAG system capable of assisting with learning academic subjects and using the curriculum and citing it. The project revolves around building an application that ingests a textbook in most formats and facilitates efficient learning of the course material. 
+  </p>
+  <br><img src="https://github.com/CogitoNTNU/TutorAI/blob/main/docs/images/TutorAI.png">
+<hr>
   <!-- Project 1: Constraint satisfaction problem -->
   <h3><a href="https://github.com/SverreNystad/constraint-satisfaction-problem">Constraint Satisfaction Problem: Sudoku Solver</a></h3>
   <p>
@@ -155,6 +165,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <h3><a href="https://github.com/SverreNystad/TDT4145-train-system">Train, ticket, station management system</a></h3>
   <p> Train, ticket, station management system is a command line-based application that allows users to interact with a train ticketing system. Users can check train routes, trips, and available tickets, as well as register, log in, and buy tickets if they are a customer. This application uses a local SQLite database to store data.
   </p>
+
 
 ```
   _______     _______     _______     _______     ___       
