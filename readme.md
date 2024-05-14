@@ -66,7 +66,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
 
 
 <!-- Project 12: TutorAI -->
-  <h3><a href="https://github.com/SverreNystad/TDT4145-train-system">TutorAI</a></h3>
+  <h3><a href="https://github.com/CogitoNTNU/TutorAI" width="200">TutorAI</a></h3>
   <p> 
   TutorAI is a RAG system capable of assisting with learning academic subjects and using the curriculum and citing it. The project revolves around building an application that ingests a textbook in most formats and facilitates efficient learning of the course material. 
   </p>
