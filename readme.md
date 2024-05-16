@@ -1,6 +1,6 @@
 <h1> Hello ("Vær hilset") World, I am Sverre Nystad! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1> 
 <div align="center">
-<img src="programmerProggingDarkMode.gif">
+<img src="assets/programmerProggingDarkMode.gif">
 </div>
 
 ## About Me:
