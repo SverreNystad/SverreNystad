@@ -54,9 +54,9 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=SverreNystad&show_icons=true"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&border_color=414868&theme=tokyonight&hide=html,css,shaderlab,jupyter%20notebook"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&hide=html,css,shaderlab,jupyter%20notebook">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&hide=html,css,shaderlab,jupyter%20notebook"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&border_color=414868&theme=tokyonight&hide=html,jupyter%20notebook"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&hide=html,jupyter%20notebook">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&hide=html,jupyter%20notebook"/>
   </picture>
 </div>
 
