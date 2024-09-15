@@ -39,7 +39,7 @@
 - [Gunnar Nystad](https://github.com/Gunnar2908) on [Machine Learning](https://github.com/SverreNystad/power-predictor) and Data Science and Enterprise Automatisation related software.
 - [Jon Bergland](https://github.com/JonBergland) on the [BoardMaster](https://github.com/SverreNystad/board-master) an AI for optimal play.
 - [Daniel Neukirch Hansen](https://github.com/Spiderpig02) on a interactive fullstack application known as [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
-- [Jens Martin Norheim Berget](https://github.com/Jensern1) also on the [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
+- [Jens Martin Norheim Berget](https://github.com/jmnorheim) also on the [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
 - [Magnus Hafstad](https://github.com/MagnusHafstad) on a application TBA, comming out Q2 2024
 - [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://github.com/SverreNystad/TutorAI), [Besieged](https://github.com/SverreNystad/besieged) and [PAYG-GPT4](https://github.com/SverreNystad/payg-gpt4).
 - And many more!
