@@ -10,6 +10,8 @@
 - **🚀 Positions:**
     - I currently serve as the **Chief Technical Officer** at **Cogito NTNU**.
     - Leading a team at **Cogito NTNU**, we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
+    - **Previously**: Software Engineering Intern at [Kahoot!](https://kahoot.com/), [Logisk Brist](https://www.logiskbrist.no/) & [KSAT](https://www.ksat.no/).
+
 - **🏦 Education:**
     - I'm a student at **NTNU Trondheim** and **M.C.S**, specializing in **Artificial Intelligence**.
 - **📖 Currently Reading:** *A Philosophy of Software Design* by John Ousterhout.
