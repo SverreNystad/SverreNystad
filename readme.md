@@ -8,7 +8,7 @@
 ## About Me:
 
 - **🚀 Positions:**
-    - I currently serve as the **Chief Technical Officer** at **Cogito NTNU**.
+    - I currently serve as the **Chief Technical Officer** at **[Cogito NTNU](https://www.cogito-ntnu.no/)**.
     - Leading a team at **Cogito NTNU**, we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
     - **Previously**: Software Engineering Intern at [Kahoot!](https://kahoot.com/), [Logisk Brist](https://www.logiskbrist.no/) & [KSAT](https://www.ksat.no/).
 
@@ -21,8 +21,8 @@
 
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
-      <img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="75" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65" height="65"/>
+      <img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mongodb"  width="65" height="65"/>
@@ -41,15 +41,15 @@
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
 
-- [Simon Sandvik Lee](https://github.com/sandviklee) on [Mineraria 2 Java Edition](https://github.com/sandviklee/MinerariaV2) and more.
-- [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master) and [TutorAI](https://github.com/SverreNystad/TutorAI).
-- [Olav Selnes Lorentzen](https://github.com/olavsl) on the [TutorAI](https://github.com/SverreNystad/TutorAI) project. Releases in Q2 2024
+- [Simon Sandvik Lee](https://github.com/sandviklee) on [MuZero](https://github.com/SverreNystad/MuZero) and [Cogito Web](https://github.com/CogitoNTNU/web-frontend).
+- [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master) and [TutorAI](https://tutorai.no/).
+- [Olav Selnes Lorentzen](https://github.com/olavsl) on the [TutorAI](https://tutorai.no/) project. 
 - [Gunnar Nystad](https://github.com/Gunnar2908) on [Machine Learning](https://github.com/SverreNystad/power-predictor) and Data Science and Enterprise Automatisation related software.
-- [Jon Bergland](https://github.com/JonBergland) on the [BoardMaster](https://github.com/SverreNystad/board-master) an AI for optimal play.
-- [Daniel Neukirch Hansen](https://github.com/Spiderpig02) on a interactive fullstack application known as [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
-- [Jens Martin Norheim Berget](https://github.com/jmnorheim) also on the [GalacticPathFinder](https://github.com/Spiderpig02/GalacticPathFinder) 
-- [Magnus Hafstad](https://github.com/MagnusHafstad) on a application TBA, comming out Q2 2024
-- [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://github.com/SverreNystad/TutorAI), [Besieged](https://github.com/SverreNystad/besieged) and [PAYG-GPT4](https://github.com/SverreNystad/payg-gpt4).
+- [Jon Bergland](https://github.com/JonBergland) on the [BoardMaster](https://github.com/SverreNystad/board-master) an AI for optimal play and [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master).
+- [Daniel Neukirch Hansen](https://github.com/Spiderpig02) on a interactive fullstack application known as [GalacticPathFinder](https://galacticpathfinder.com/) 
+- [Jens Martin Norheim Berget](https://github.com/jmnorheim) also on the [GalacticPathFinder](https://galacticpathfinder.com/) 
+- [Magnus Hafstad](https://github.com/MagnusHafstad) on a [Gradescreener](https://gradescreener.com/)
+- [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://tutorai.no/) and [Besieged](https://github.com/SverreNystad/besieged)
 - And many more!
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
@@ -75,7 +75,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   <div align="center">
     <h3><a href="https://github.com/CogitoNTNU/TutorAI">TutorAI</a></h3>
     <p>
-        TutorAI is a RAG system capable of assisting with learning academic subjects and using the curriculum and citing it. The project revolves around building an application that ingests a textbook in most formats and facilitates efficient learning of the course material.
+        TutorAI is a RAG system capable of assisting with learning academic subjects and using the curriculum and citing it. The project revolves around building an application that ingests a textbook in most formats and facilitates efficient learning of the course material. Try it out at at <a href="https://tutorai.no/"> TutorAI.no </a>
     </p>
     <br><img src="https://github.com/CogitoNTNU/TutorAI/blob/main/docs/images/TutorAI.png" width="200">
     <hr>
@@ -88,7 +88,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <h3><a href="https://github.com/sandviklee/NTNU-FIGHTERZ">NTNU FIGHTERZ</a></h3>
     <p>
         A scaling fighting game similar to Super Smash Bros, developed in Java with Maven.
-        <br><img src="https://media.discordapp.net/attachments/353907776633700363/1066753378958442506/6ae495074a7c35656342107b2aa2c2af.gif?width=837&height=454" width="200">
+        <br><img src="https://www.youtube.com/watch?v=3NE40v7QaqM?width=837&height=454" width="200">
     </p>
     <hr>
     <h3><a href="https://github.com/Knolaisen/alpha-zero-prosjekt">Alpha-Zero-Chess</a></h3>
@@ -98,14 +98,16 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <hr>
     <h3><a href="https://github.com/CogitoNTNU/MarketingAI">MarketingAI</a></h3>
     <p>
-        A software that autonomously generates relevant imagery and accompanying text for a meme or propaganda poster based on user input. To try it out visit us at https://www.cogito-ntnu.no/projects/marketingai.
+        A software that autonomously generates relevant imagery and accompanying text for a meme or propaganda poster based on user input. To try it out visit us at 
+        <a href="https://www.cogito-ntnu.no/projects/marketingai">
+        Cogito NTNU</a>
         <br><img src="https://github.com/CogitoNTNU/MarketingAI/blob/main/docs/img/MarketingAILogo.png" width="200">
     </p>
     <hr>
     <h3><a href="https://github.com/SverreNystad/boids-the-game">Boids the Game</a></h3>
     <p>
         A simulation-based game inspired by Craig Reynolds' Boids algorithm, modeling the flocking behavior of birds or fish.
-        <br><img src="https://i.gyazo.com/0dc7b698c4eb431d19be66c0b852ff02.gif" width="200">
+        <br><img src="assets/boids-video.gif" width="200">
     </p>
     <hr>
     <h3><a href="https://github.com/SverreNystad/gpt-dungeon-master">GPT Dungeon Master</a></h3>
