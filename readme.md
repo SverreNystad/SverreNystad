@@ -88,7 +88,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <h3><a href="https://github.com/sandviklee/NTNU-FIGHTERZ">NTNU FIGHTERZ</a></h3>
     <p>
         A scaling fighting game similar to Super Smash Bros, developed in Java with Maven.
-        <br><img src="https://www.youtube.com/watch?v=3NE40v7QaqM?width=837&height=454" width="200">
+        <br><img src="https://youtu.be/3NE40v7QaqM" width="200">
     </p>
     <hr>
     <h3><a href="https://github.com/Knolaisen/alpha-zero-prosjekt">Alpha-Zero-Chess</a></h3>
