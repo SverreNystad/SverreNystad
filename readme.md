@@ -15,20 +15,26 @@
 - **📖 Currently Reading:** *A Philosophy of Software Design* by John Ousterhout.
 - **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns, and Agile methodologies. Let's exchange insights!
 
-<h2> 🧑‍💻 Tech I work on: </h2>
+<h2> 🧑‍💻 Tech I actively work with: </h2>
 
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
       <img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="75" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mongodb"  width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs"     width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mongodb"  width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Nodejs"     width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="mongodb"    width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="75" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="65" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="mongodb"    width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="kubernetes" width="75" height="75"/>
+
+
 </div>
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
