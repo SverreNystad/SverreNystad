@@ -15,7 +15,7 @@
 - **🏦 Education:**
     - I'm a student at **NTNU Trondheim** and **M.C.S**, specializing in **Artificial Intelligence**.
 - **📖 Currently Reading:** *A Philosophy of Software Design* by John Ousterhout.
-- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, machine learning, deep learning, design patterns, and Agile methodologies. Let's exchange insights!
+- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns, Agile methodologies (EXtreme Programming ❤️). Computer Vision, deep reinforcement learning and supervised learning of all kinds. Let's exchange insights!
 
 <h2> 🧑‍💻 Tech I actively work with: </h2>
 
