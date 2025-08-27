@@ -5,7 +5,7 @@
     <img src="assets/programmerProggingDarkMode.gif">
 </div>
 
-## About Me:
+- **🏆 Norwegian AI Championship 2025** 🥇 1st Place in **Computer Vision** & 🥈 2nd Overall.
 
 - **🚀 Positions:**
     - I currently serve as the **Chief Technical Officer** at **[Cogito NTNU](https://www.cogito-ntnu.no/)**.
@@ -15,7 +15,7 @@
 - **🏦 Education:**
     - I'm a student at **NTNU Trondheim** and **M.C.S**, specializing in **Artificial Intelligence**.
 - **📖 Currently Reading:** *A Philosophy of Software Design* by John Ousterhout.
-- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns, and Agile methodologies. Let's exchange insights!
+- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, machine learning, deep learning, design patterns, and Agile methodologies. Let's exchange insights!
 
 <h2> 🧑‍💻 Tech I actively work with: </h2>
 
