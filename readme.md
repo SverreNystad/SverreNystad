@@ -1,4 +1,4 @@
-<h1> Hello ("Vær hilset") World, I am Sverre Nystad! 
+<h1> Hello World, I am Sverre Nystad! 
 <img src="assets/hand-waving.gif" width="45" align="center"/> </h1> 
 
 <div align="center">
