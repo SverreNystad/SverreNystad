@@ -44,7 +44,7 @@
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
 
-- [Maria Inês Fidalgo Trigueiro](https://github.com/Ines-Trigueiro) on [A steam analytics dataplatform](https://github.com/Ines-Trigueiro/agent-ready-steam-analytics-platform) and [InterVOx](https://github.com/serinaerzengin/HackEurope2026).
+- [Maria Inês Fidalgo Trigueiro](https://github.com/Ines-Trigueiro) on [A steam analytics dataplatform](https://github.com/Ines-Trigueiro/agent-ready-steam-analytics-platform) and [InterVox](https://github.com/serinaerzengin/HackEurope2026).
 - [Simon Sandvik Lee](https://github.com/sandviklee) on [MuZero](https://github.com/SverreNystad/MuZero) and [Cogito Web](https://github.com/CogitoNTNU/web-frontend).
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master) and [TutorAI](https://tutorai.no/).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on the [TutorAI](https://tutorai.no/) project. 
