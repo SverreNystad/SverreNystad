@@ -8,12 +8,15 @@
 - **🏆 Norwegian AI Championship 2025** 🥇 1st Place in **Computer Vision** & 🥈 2nd Overall.
 
 - **🚀 Positions:**
-    - I currently serve as the **Chief Technical Officer** at **[Cogito NTNU](https://www.cogito-ntnu.no/)**.
-    - Leading a team at **Cogito NTNU**, we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
-    - **Currently**: AI Engineer at [KDI](https://kongsbergdigital.com/) **Previously**: Software Engineering Intern at [Kahoot!](https://kahoot.com/), [Logisk Brist](https://www.logiskbrist.no/) & [KSAT](https://www.ksat.no/).
+    - **Currently:** Integration Engineer at [Sopra Steria](https://www.soprasteria.no/).
+    - **Previously:** Chief Technology Officer (CTO) at:
+        - [Cogito NTNU](https://www.cogito-ntnu.no/) – Leading more than 70 members across 10 AI projects and initiatives. Teaching and inspiring the next generation of AI and ML engineers of Norway.
+        - [GradeScreener](https://gradescreener.com/) – Building an B2C AI-powered SaaS for automated applicant screening.
+        - [TutorAI](https://tutorai.no/) – Developing AI-driven educational tools using Retrieval-Augmented Generation (RAG).
+    - **Previous Experience:** AI Engineer at [Kongsberg Digital](https://kongsbergdigital.com/) and Software Engineering Intern at [Kahoot!](https://kahoot.com/), [Logisk Brist](https://www.logiskbrist.no/) & [KSAT](https://www.ksat.no/).
 
 - **🏦 Education:**
-    - I'm a student at **NTNU Trondheim** and **M.C.S**, specializing in **Artificial Intelligence**.
+    - I'm Masters in Computer Science graduate from **NTNU Trondheim** specializing in **Artificial Intelligence**.
 - **📖 Currently Reading:** *A Philosophy of Software Design* by John Ousterhout.
 - **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns, Agile methodologies (EXtreme Programming ❤️). Computer Vision, deep reinforcement learning and supervised learning of all kinds. Let's exchange insights!
 
@@ -41,6 +44,7 @@
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
 
+- [Maria Inês Fidalgo Trigueiro](https://github.com/Ines-Trigueiro) on [A steam analytics dataplatform](https://github.com/Ines-Trigueiro/agent-ready-steam-analytics-platform) and [InterVOx](https://github.com/serinaerzengin/HackEurope2026).
 - [Simon Sandvik Lee](https://github.com/sandviklee) on [MuZero](https://github.com/SverreNystad/MuZero) and [Cogito Web](https://github.com/CogitoNTNU/web-frontend).
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on the [GPT Dungeon Master](https://github.com/SverreNystad/gpt-dungeon-master) and [TutorAI](https://tutorai.no/).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on the [TutorAI](https://tutorai.no/) project. 
