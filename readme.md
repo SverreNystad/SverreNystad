@@ -11,8 +11,8 @@
     - **Currently:** Integration Engineer at [Sopra Steria](https://www.soprasteria.no/).
     - **Previously:** Chief Technology Officer (CTO) at:
         - [Cogito NTNU](https://www.cogito-ntnu.no/) – Leading more than 70 members across 10 AI projects and initiatives. Teaching and inspiring the next generation of AI and ML engineers of Norway.
-        - [GradeScreener](https://gradescreener.com/) – Building an B2C AI-powered SaaS for automated applicant screening.
-        - [TutorAI](https://tutorai.no/) – Developing AI-driven educational tools using Retrieval-Augmented Generation (RAG).
+        - [GradeScreener](https://gradescreener.com/) – Building an B2B AI-powered SaaS for automated applicant screening.
+        - [TutorAI](https://tutorai.no/) – Developing an B2C AI-driven educational tools using Retrieval-Augmented Generation (RAG).
     - **Previous Experience:** AI Engineer at [Kongsberg Digital](https://kongsbergdigital.com/) and Software Engineering Intern at [Kahoot!](https://kahoot.com/), [Logisk Brist](https://www.logiskbrist.no/) & [KSAT](https://www.ksat.no/).
 
 - **🏦 Education:**
